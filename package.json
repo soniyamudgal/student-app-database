@@ -1,0 +1,12 @@
+{
+  "name": "my-students-app-database",
+  "version": "1.0.0",
+  "description": "students-app-db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "soniya mudgal",
+  "license": "ISC"
+}
